@@ -1,4 +1,4 @@
-All the Python scripts from the course finished 
+All the Python scripts from the course "Learn Python and Ethical Hacking from Scratch"
   - 1: MAC Address Changer [] 
   - 2: ARP Spoofer []
   - 3: Packet Sniffer []
